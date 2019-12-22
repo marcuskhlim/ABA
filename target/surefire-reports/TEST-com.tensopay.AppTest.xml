@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.tensopay.AppTest" time="0.016" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="N:\ABA-java\aba-java\target\test-classes;N:\ABA-java\aba-java\target\classes;C:\Users\pclim\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\pclim\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\pclim\.m2\repository\io\javalin\javalin\3.6.0\javalin-3.6.0.jar;C:\Users\pclim\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.3.31\kotlin-stdlib-jdk8-1.3.31.jar;C:\Users\pclim\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\1.3.31\kotlin-stdlib-1.3.31.jar;C:\Users\pclim\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.3.31\kotlin-stdlib-common-1.3.31.jar;C:\Users\pclim\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;C:\Users\pclim\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.3.31\kotlin-stdlib-jdk7-1.3.31.jar;C:\Users\pclim\.m2\repository\org\slf4j\slf4j-api\1.7.28\slf4j-api-1.7.28.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-server\9.4.20.v20190813\jetty-server-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-http\9.4.20.v20190813\jetty-http-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-util\9.4.20.v20190813\jetty-util-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-io\9.4.20.v20190813\jetty-io-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-webapp\9.4.20.v20190813\jetty-webapp-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-xml\9.4.20.v20190813\jetty-xml-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-servlet\9.4.20.v20190813\jetty-servlet-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-security\9.4.20.v20190813\jetty-security-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\websocket\websocket-server\9.4.20.v20190813\websocket-server-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.4.20.v20190813\websocket-common-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.4.20.v20190813\websocket-api-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.4.20.v20190813\websocket-client-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-client\9.4.20.v20190813\jetty-client-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\websocket\websocket-servlet\9.4.20.v20190813\websocket-servlet-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.0\jackson-databind-2.10.0.jar;C:\Users\pclim\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.0\jackson-annotations-2.10.0.jar;C:\Users\pclim\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.0\jackson-core-2.10.0.jar;C:\Users\pclim\.m2\repository\org\slf4j\slf4j-simple\1.7.12\slf4j-simple-1.7.12.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 8"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\pclim\AppData\Local\Temp\surefire5316965954754660687\surefirebooter8192676668946237872.jar C:\Users\pclim\AppData\Local\Temp\surefire5316965954754660687 2019-11-16T08-18-27_447-jvmRun1 surefire466290430607259605tmp surefire_0567424675709987726tmp"/>
+    <property name="surefire.test.class.path" value="N:\ABA-java\aba-java\target\test-classes;N:\ABA-java\aba-java\target\classes;C:\Users\pclim\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\pclim\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\pclim\.m2\repository\io\javalin\javalin\3.6.0\javalin-3.6.0.jar;C:\Users\pclim\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.3.31\kotlin-stdlib-jdk8-1.3.31.jar;C:\Users\pclim\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\1.3.31\kotlin-stdlib-1.3.31.jar;C:\Users\pclim\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.3.31\kotlin-stdlib-common-1.3.31.jar;C:\Users\pclim\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;C:\Users\pclim\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.3.31\kotlin-stdlib-jdk7-1.3.31.jar;C:\Users\pclim\.m2\repository\org\slf4j\slf4j-api\1.7.28\slf4j-api-1.7.28.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-server\9.4.20.v20190813\jetty-server-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-http\9.4.20.v20190813\jetty-http-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-util\9.4.20.v20190813\jetty-util-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-io\9.4.20.v20190813\jetty-io-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-webapp\9.4.20.v20190813\jetty-webapp-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-xml\9.4.20.v20190813\jetty-xml-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-servlet\9.4.20.v20190813\jetty-servlet-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-security\9.4.20.v20190813\jetty-security-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\websocket\websocket-server\9.4.20.v20190813\websocket-server-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.4.20.v20190813\websocket-common-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.4.20.v20190813\websocket-api-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.4.20.v20190813\websocket-client-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\jetty-client\9.4.20.v20190813\jetty-client-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\org\eclipse\jetty\websocket\websocket-servlet\9.4.20.v20190813\websocket-servlet-9.4.20.v20190813.jar;C:\Users\pclim\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.0\jackson-databind-2.10.0.jar;C:\Users\pclim\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.0\jackson-annotations-2.10.0.jar;C:\Users\pclim\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.0\jackson-core-2.10.0.jar;C:\Users\pclim\.m2\repository\org\slf4j\slf4j-simple\1.7.12\slf4j-simple-1.7.12.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\pclim"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_65\jre"/>
+    <property name="basedir" value="N:\ABA-java\aba-java"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\pclim\AppData\Local\Temp\surefire5316965954754660687\surefirebooter8192676668946237872.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_65\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_65-b17"/>
+    <property name="user.name" value="pclim"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="6.2"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\pclim\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\pclim\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_65"/>
+    <property name="user.dir" value="N:\ABA-java\aba-java"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_65\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Perl64\site\bin;C:\Perl64\bin;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\pclim\AppData\Local\Smartbar\Application\;C:\Users\pclim\AppData\Local\Smartbar\Application\;C:\Program Files\Samsung\AllShare Framework DMS\1.3.15\;C:\Program Files\Samsung\AllShare Framework DMS\1.3.15\64bit\;C:\HashiCorp\Vagrant\bin;C:\Program Files\Java\jdk1.8.0_65\bin;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Inno Setup 5;C:\Program Files (x86)\WiX Toolset v3.10\bin;C:\Program Files (x86)\QuickTime\QTSystem\;C:\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Livestreamer;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\Calibre2\;C:\Program Files\Java\jdk1.8.0_65;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Git\cmd;C:\Users\pclim\AppData\Local\Android\Sdk\emulator;C:\Go\bin;C:\Program Files\Java\jre1.8.0_65\bin;C:\python36\Scripts\;C:\python36\;C:\Users\pclim\AppData\Local\GitHubDesktop\bin;C:\Users\pclim\AppData\Roaming\npm;C:\Users\pclim\AppData\Local\Yarn\bin;C:\Users\pclim\AppData\Local\Android\Sdk\platform-tools;C:\Users\pclim\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\pclim\go\bin;N:\apache-maven-3.6.2\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.65-b01"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.tensopay.AppTest" time="0.001"/>
+</testsuite>
